@@ -181,30 +181,6 @@ Predicted H₂ Production:
 
 ---
 
-## Project Structure
-
-
-## Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/photocatalytic-h2-ml.git
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Run:
-
-```bash
-python main.py
-```
-
----
 
 ## Libraries Used
 
